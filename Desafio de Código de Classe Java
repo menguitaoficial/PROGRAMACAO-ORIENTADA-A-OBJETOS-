@@ -1,0 +1,14 @@
+//Dentro da aula, complete os seguintes passos:Main
+//Crie uma variável nomeada e defina como Stringcity"London"
+//Crie uma variável nomeada e defina-a como intpopulation9000000
+//Dentro de , crie um objeto de nomeado main()MainmyObj
+//Impressão e uso citypopulationmyObj
+public class Main {
+    String city  = "london";
+    int population = 9000000;
+
+  public static void main(String[] args) {
+    Main myObject = new Main ();
+    System.out.println(myObject.city);
+  }
+}
