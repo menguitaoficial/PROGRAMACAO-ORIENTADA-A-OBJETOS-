@@ -14,3 +14,28 @@ Exercício do W3Schools: Java (POO em java)
 
 5. Quais são os dois principais aspectos da programação orientada a objetos?
 - Classes e objetos
+
+
+Exercício do W3Schools: Java (classes e objetos em java)
+
+1. Preencha a palavra-chave correta para declarar a classe.
+
+public  Main {
+  int x = 5;
+}
+- Class
+
+2. Crie um objeto da classe Principal e acesse seu atributo.
+
+class Main {
+  int x = 5;
+}
+
+public class Program {
+  public static void main(String[] args) {
+    Main myObj =  Main();
+    System.out.println(myObj.);
+  }
+}
+- New/x
+
