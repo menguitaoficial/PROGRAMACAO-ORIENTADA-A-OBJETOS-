@@ -39,3 +39,31 @@ public class Program {
 }
 - New/x
 
+3. A classe A é como um "projeto" para criar objetos.
+- verdadeiro
+
+4.Crie uma classe chamada .MyClass
+public class -------
+- MyClass
+
+5. Crie um objeto de chamado .MyClassmyObj
+---- ---- = new ----- ();
+- MyClass/MyObj/MyClass
+
+6. Qual é a saída do código a seguir?
+public class Main {
+    int x = 5;
+
+    public static void main(String[] args) {
+        Main myObj = new Main();
+        System.out.println(myObj.x);
+    }
+}
+- 5 
+
+7- A classe deve ter um nome de arquivo correspondente.
+- verdadeiro
+
+Exercício do W3Schools: Java (Atributos da Classe Java)
+
+
