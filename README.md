@@ -26,13 +26,13 @@ Jogador
 - Idade
   + jogar()
 
-  Voo
+Voo
   - Número
   - Origem
   - Destino
     + decolar()
 
-Casa
+ Casa
 - Cor
 - Quarto
 - Endereço
