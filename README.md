@@ -6,7 +6,7 @@ professor
 - Nome
 - Disciplina
 - idade
-  +ensinar()
+  + ensinar()
 
 produto
 - Nome
@@ -18,13 +18,13 @@ livro
 - Título
 - Autor
 - Páginas
-  +abrir()
+  + abrir()
 
 Jogador
 - Nome
 - Posição
 - Idade
-  +jogar()
+  + jogar()
 
   Voo
   - Número
@@ -36,4 +36,4 @@ Casa
 - Cor
 - Quarto
 - Endereço
-  +abrir porta()
+  + abrir porta()
